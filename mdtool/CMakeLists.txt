@@ -2,8 +2,6 @@ cmake_minimum_required(VERSION 3.10)
 
 # your project name
 project("mdtool")
-# Set output location
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../)
 
 # find includes in the corresponding build directories
 set(CMAKE_INCLUDE_CURRENT_DIR ON)

@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/mdtool.dir/main.cpp.o -o ../mdtool  /usr/local/Cellar/ffmpeg/4.3.1_4/lib/libavcodec.dylib /usr/local/Cellar/ffmpeg/4.3.1_4/lib/libavformat.dylib 

@@ -1,5 +1,0 @@
-/Volumes/github/metadata-tool/mdtool/build/CMakeFiles/rebuild_cache.dir
-/Volumes/github/metadata-tool/mdtool/build/CMakeFiles/edit_cache.dir
-/Volumes/github/metadata-tool/mdtool/build/CMakeFiles/mdtool.dir
-/Volumes/github/metadata-tool/mdtool/build/ffmpeg/CMakeFiles/rebuild_cache.dir
-/Volumes/github/metadata-tool/mdtool/build/ffmpeg/CMakeFiles/edit_cache.dir
