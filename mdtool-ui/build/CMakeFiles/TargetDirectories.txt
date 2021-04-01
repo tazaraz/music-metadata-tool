@@ -1,0 +1,4 @@
+/Volumes/github/metadata-tool/mdtool-ui/build/CMakeFiles/rebuild_cache.dir
+/Volumes/github/metadata-tool/mdtool-ui/build/CMakeFiles/edit_cache.dir
+/Volumes/github/metadata-tool/mdtool-ui/build/CMakeFiles/mdtool-ui.dir
+/Volumes/github/metadata-tool/mdtool-ui/build/CMakeFiles/mdtool-ui_autogen.dir
